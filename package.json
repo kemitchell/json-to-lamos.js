@@ -7,6 +7,9 @@
   "dependencies": {
     "lamos": "^2.0.2"
   },
+  "keywords": [
+    "lamos"
+  ],
   "license": "MIT",
   "repository": "kemitchell/json-to-lamos.js"
 }
